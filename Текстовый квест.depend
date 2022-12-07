@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670417578 source:f:\all c projects\Текстовый квест\main.c
+	<stdio.h>
+	<windows.h>
+
